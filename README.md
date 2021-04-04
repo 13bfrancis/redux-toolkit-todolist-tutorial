@@ -1,6 +1,6 @@
 # Redux Toolkit and React To-Do List Tutorial
 
-## To Use Project You can run the following commands
+## To Use Project You Can Run the Following Commands
 
 ### Step 1
 
